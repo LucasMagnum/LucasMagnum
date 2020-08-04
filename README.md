@@ -1,4 +1,4 @@
-### Lucas Magnum
+# Lucas Magnum
 
 ## Who am I?
 
