@@ -20,7 +20,7 @@ Few weeks later, I was writing phishing pages using HTML, CSS, Javascript, PHP, 
 
 I left my home when I was 17 and went to São Paulo, that was a shock! I was 1000 kilometers away from my family and my tiny village of 4000 inhabitants. My first job there was in a repair shop for broken glasses. After that, I worked in some Call Centers, till I got an internship.
 
-10 years later, I work with companies around the globe, I'm doing well. I'm an excellent professional, that was only possible because I've transformed all the bad things around me in lessons. From a tiny village to the world. That is me!
+10 years later, I work with companies around the globe, I'm doing well. I'm an excellent professional, that was only possible because I've transformed all the bad things around me in lessons. From a tiny village to the world. This is me!
 
 If you want to know about my professional life check my LinkedIn https://www.linkedin.com/in/lucasmagnum/
 
