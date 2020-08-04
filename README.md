@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I'm a person who fooled the statistics if they were right, I'd be dead or in prison. That is not a joke. 
+I'm a person who fooled the statistics - if they were right, I'd be dead or in prison -
 
 I'm not dark enough to be black neither light enough to be white. I'm in the middle which gave me the perspective of both sides. I grew up poor, I didn't know it because that was normal where I lived. Everyone was poor. 
 
