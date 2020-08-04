@@ -8,9 +8,11 @@ I'm not dark enough to be black neither light enough to be white. I'm in the mid
 
 Our education was precarious, incomplete, and, unfair. I was born with this inner voice that was telling me I didn't belong to that place. I wanted more! People will look at your different when you want more in a place that everyone has so little, I couldn't help myself though, I'm different!
 
-I started working early, I was selling ice creams when I was 14, I ran a bar way before I was legally allowed even to enter one. I had an easy life compared to some of my friends. My mom did it all, I saw her teaching at school, working in bars, painting, building stuff, even mining crystals. 
+My mom did it all, I saw her teaching at school, working in bars, painting, building stuff, even mining crystals. 
 
 My father was an alcoholic, mathematician, farmer, and, gambler. Very competitive, impulsive, and aggressive. We would see him around a couple of times a year if we were lucky he wouldn't be drunk to start a fight or threaten us.
+
+I started working early, I was selling ice creams when I was 14, I ran a bar way before I was even legally allowed enter one.
 
 One day around 2005 I was surfing on the internet when I came across a phishing page (https://en.wikipedia.org/wiki/Phishing), I was stunned by it. How that works? How is that even possible? I was curious, I wanted to know how that worked, I wanted to learn what was behind it. Then I started looking for answers, I learned they were made with something called PHP, that websites could be easily "cloned" as they were just "code". That was the beginning of my journey.
 
